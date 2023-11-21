@@ -1,7 +1,6 @@
-### Hi there 👋
 
-✨ Hi there 👋 I'M Aseel Mohtasib  ✨ 
-
+ Hi there 👋
+✨I'M Aseel Mohtasib ✨ 
 - 🔭 I’m A passionate Backend developer from Riyadh, Saudi Arabia
 - 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate on ...
