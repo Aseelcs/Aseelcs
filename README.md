@@ -1,7 +1,6 @@
 
  Hi there 👋
 ✨I'M Aseel Mohtasib ✨ 
-<img align ="right" width="400" src="https://th.bing.com/th/id/R.e358799227826cfa87b038c2bb84381e?rik=txdPjTxEqQpJBg&pid=ImgRaw&r=0"alt="Hello world"/>
 - 🔭 I’m A passionate Backend developer from Riyadh, Saudi Arabia
 - 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate on ...
