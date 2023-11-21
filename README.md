@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**Aseelcs/Aseelcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+✨ Hi there 👋 I'M Aseel Mohtasib  ✨ 
 
 - 🔭 I’m A passionate Backend developer from Riyadh, Saudi Arabia
 - 🌱 I’m currently learning Backend Development
